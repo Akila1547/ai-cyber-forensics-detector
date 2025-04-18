@@ -1,0 +1,7 @@
+file_name,file_size,mime_type,entropy,accessed_time,label
+doc1.pdf,0,application/pdf,0,2025-04-17 16:21:29,0
+doc2.pdf,188,application/pdf,4.4456,2025-04-17 16:38:05,1
+img.zip,0,application/x-zip-compressed,0,2025-04-17 16:13:17,0
+img1.jpg,0,image/jpeg,0,2025-04-17 16:20:02,0
+img2.jpg,0,image/jpeg,0,2025-04-17 16:20:02,0
+img3.jpg,185,image/jpeg,4.4855,2025-04-17 16:38:05,1

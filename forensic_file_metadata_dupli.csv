@@ -1,0 +1,11 @@
+file_name,file_size,mime_type,entropy,accessed_time,label
+img1.jpg,32000,image/jpeg,4.2,2025-03-20 10:28:54.025308,0
+img2.jpg,29000,image/jpeg,4.1,2025-03-29 10:28:54.025334,0
+img3.jpg,31000,image/jpeg,4.3,2025-03-19 10:28:54.025338,0
+hidden.zip,92000,application/zip,7.8,2025-04-13 10:28:54.025341,1
+doc1.pdf,150000,application/pdf,5.0,2025-03-26 10:28:54.025343,0
+malware_disguised.pdf,54000,application/x-msdownload,7.5,2025-03-30 10:28:54.025346,1
+normal.exe,64000,application/x-msdownload,5.1,2025-04-08 10:28:54.025348,0
+fake_image.jpg,95000,application/zip,8.1,2025-03-29 10:28:54.025352,1
+log1.txt,5000,text/plain,3.5,2025-04-09 10:28:54.025361,0
+payload.doc,74000,application/vnd.openxmlformats-officedocument.wordprocessingml.document,7.0,2025-04-13 10:28:54.025364,1
